@@ -1,0 +1,16 @@
+[
+  {"id": "0",
+  "path": "/images/cute-bat.jpg"},
+  {"id": "1",
+    "path": "/images/cute-family.jpg"},
+  {"id": "2",
+    "path": "/images/cute-hedgehog.jpg"},
+  {"id": "3",
+    "path": "/images/cute-mouse.jpg"},
+  {"id": "4",
+    "path": "/images/cute-owl.jpg"},
+  {"id": "5",
+    "path": "/images/cute-panda.jpg"},
+  {"id": "6",
+    "path": "/images/cute-pig.jpg"}
+]
